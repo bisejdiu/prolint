@@ -2,7 +2,6 @@ Complete API
 ============
 
 Getting started with ProLint is easy.
-The main class you need to care about is :class:`~prolint.core.Crawler`
 
 prolint.core.systemtopology
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
