@@ -12,6 +12,6 @@ besian.sejdiu@ucalgary.ca |br|
 tieleman@ucalgary.ca
 
 
-Manuscript is (almost) ready to be submitted. Until the work is published please
+Manuscript has not been published yet. Until then please
 cite the relevant GitHub URL address.
 

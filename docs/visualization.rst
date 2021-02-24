@@ -49,10 +49,10 @@ distance between a residue and a lipid as a function of simulation time. This gi
 lipid is interacting specifically or not. To calculate the distance between a lipid and a residue in ProLint,
 all you have to do is, first compute the distances and then visualize them::
 
-    dist = contacts.contact_distances(t, proteins[0], 10, 'CHOL', 'ROH')
+    dist = contacts.contact_distances(t, proteins[0], [10, 11], 'CHOL', 'ROH')
     pl.show_distances(dist)
 
-In the first command, we supply the MDTraj.Trajectory (t) and speciy the residue (10) of the protein (proteins[0])
+In the first command, we supply the MDTraj.Trajectory (t) and speciy the residues (10 & 11) of the protein (proteins[0])
 along with the bead/atom ('ROH') of the lipid ('CHOL') that we want to measure distances. These are then visualized
 using a dedicated application. You do not need any prior knowledge of the interactions for this calculation and
 you don't need to compute neighbors at all.

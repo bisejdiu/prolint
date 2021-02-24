@@ -18,11 +18,11 @@ sys.path.insert(0, os.path.abspath('../'))
 # -- Project information -----------------------------------------------------
 
 project = 'ProLint'
-copyright = '2020, Besian I. Sejdiu'
+copyright = '2021, Besian I. Sejdiu'
 author = 'Besian I. Sejdiu'
 
 # The full version, including alpha/beta/rc tags
-release = '0.9.0'
+release = '0.7.0'
 
 
 # -- General configuration ---------------------------------------------------

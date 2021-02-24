@@ -20,7 +20,6 @@ gain deep insight into the data and visualize interactions in a varietey of form
    about
    why_prolint
    authors
-   install
 
 
 .. toctree::
