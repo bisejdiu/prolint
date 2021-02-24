@@ -4,5 +4,14 @@ sphinx
 sphinx_rtd_theme
 jinja2
 numpy
+pandas
+scipy
+colorcet
+bokeh
+mdtraj
+pyyml
+networkx
+colorcet
+nglview
 numpydoc
 wheel
