@@ -13,5 +13,6 @@ pyyml
 networkx
 colorcet
 nglview
+matplotlib
 numpydoc
 wheel
