@@ -3,5 +3,6 @@ setuptools
 sphinx
 sphinx_rtd_theme
 jinja2
+numpy
 numpydoc
 wheel
