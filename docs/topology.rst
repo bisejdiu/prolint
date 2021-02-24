@@ -20,7 +20,7 @@ Internal representation
 
 .. currentmodule:: prolint
 .. autosummary::
-    :toctree: api/generated/
+    :toctree: generated/
 
     Lipids
     Proteins

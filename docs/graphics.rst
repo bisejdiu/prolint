@@ -14,7 +14,7 @@ Internal representation
 
 .. currentmodule:: prolint
 .. autosummary::
-    :toctree: api/generated/
+    :toctree: generated/
 
     show_points
     show_radar
