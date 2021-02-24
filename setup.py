@@ -9,6 +9,17 @@ setup(
     license='MIT',
     python_requires='>=3.6',
     packages=find_packages(),
-    install_requires=['numpy==1.15.4', 'pandas==0.24.0', 'scipy', 'mdtraj==1.9.2', 'pyyaml', 'colorcet', 'bokeh==1.4.0', 'networkx', 'jupyterlab', 'nglview==2.7.7', matplotlib],
+    install_requires=[
+	'numpy==1.15.4', 
+	'pandas==0.24.0', 
+	'scipy', 
+	'mdtraj==1.9.2', 
+	'pyyaml', 
+	'colorcet', 
+	'bokeh==1.4.0', 
+	'networkx', 
+	'jupyterlab', 
+	'nglview==2.7.7', 
+	'matplotlib'],
 )
 
