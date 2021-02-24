@@ -3,7 +3,6 @@ from setuptools import setup, find_packages
 
 setup(
     name='prolint',
-    #packages=['prolint'],
     version='0.7.0',
     description='Lipid-protein analysis',
     author='Besian I. Sejdiu',
