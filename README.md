@@ -9,8 +9,7 @@ ProLint is a lightweight python library that has four core objectives:
 * Automation of protein-lipid contact generation
 
 
-To get familiar with ProLint please read the [documentation](https://prolint.readthedocs.io). 
-
+To get familiar with ProLint please read the <a href="https://prolint.readthedocs.io" target="_blank">documentation</a>.
 ## Installation
 
 If you have `conda` installed, then you can install ProLint's dependencies by typing: 
@@ -32,7 +31,7 @@ python setup.py install
 
 ## Getting Started
 
-Please follow the instructions provided in the [documentation](https://prolint.readthedocs.io) to get started. Note that, to use the visualization interface of ProLint, 
+Please follow the instructions provided in the <a href="https://prolint.readthedocs.io" target="_blank">documentation</a> to get started. Note that, to use the visualization interface of ProLint, 
 you should use JupyterLab. At the top of your notebook file, make sure to call the `output_notebook` function: 
 
 ```python
@@ -41,7 +40,7 @@ output_notebook()
 ```
 
 Additionally, if you want to use the `show_contact_projection` function, make sure that your installation of `nglview` is working properly. 
-Follow the instruction provided by [there](https://github.com/nglviewer/nglview) to ensure your installation is running correclty.
+Follow the instruction provided by <a href="https://github.com/nglviewer/nglview" target="_blank">there</a> to ensure your installation is running correclty.
 
 ## Notes
 This library has been tested with the Martini model. It should work with atomistic simulations quite well, however testing so far has been very limited. 
