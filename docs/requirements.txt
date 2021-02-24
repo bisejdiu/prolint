@@ -3,7 +3,6 @@ setuptools
 sphinx
 sphinx_rtd_theme
 jinja2
-pytables
 numpydoc
 wheel
 python==3.7
