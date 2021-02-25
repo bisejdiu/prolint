@@ -17,7 +17,7 @@ class SystemTopology(object):
     ----------
     topology : MDTraj.Topology
 
-    resolution : only "martini" is currently implemented.
+    resolution : Either "martini" or "atomistic". 
 
     """
 
@@ -31,7 +31,7 @@ class SystemTopology(object):
             lipid_indices = topology.select("all and not protein")
             proteins_indices = topology.select("protein")
         else:
-            raise NotImplementedError('Only the Martini forcefield is currently impolemented.')
+            raise NotImplementedError('Provided resolution is not supported. Only "martini" and "atomistic" are supported.')
 
         self.resolution = resolution
         self.topology = topology
