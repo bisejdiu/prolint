@@ -655,7 +655,7 @@ def contacts_dataframe(n, p, t, radius, co=0, custom_metrics=None, time_unit='us
                     if k == list(metrics.keys())[-1]:
                         RESULTS["Protein"].append(protein)
                         RESULTS["Lipids"].append(lipid)
-                        RESULTS["Radius"].append(0.7)
+                        RESULTS["Radius"].append(float(radius))
                         RESULTS["ResID"].append(residue)
                         RESULTS['ResName'].append(resnames[residue-1])
 
