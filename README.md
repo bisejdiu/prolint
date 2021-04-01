@@ -1,4 +1,7 @@
 # ProLint
+PLEASE NOTE: this package is under active development. A new and improved version will be released very soon. 
+If you have questions or want to use, please contact the developer to get the most recent version. 
+
 A python package for the automated analysis and visualization of **Pro**tein-**L**ipid **int**eractions.
 
 
