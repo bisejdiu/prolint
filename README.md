@@ -1,4 +1,9 @@
 # ProLint
+
+This package has been renamed and moved to the following repository: https://github.com/ProLint/prolintpy
+<br>This repository here is kept online only temporarily and will be deleted soon.
+
+-----------------------
 PLEASE NOTE: this package is under active development. A new and improved version will be released very soon. 
 If you have questions or want to use, please contact the developer to get the most recent version. 
 
